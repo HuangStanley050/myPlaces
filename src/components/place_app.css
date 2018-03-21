@@ -1,0 +1,10 @@
+.appWrapper{
+    width: 90%;
+    height: 700px;
+    margin: 20px auto;
+    border-color:black;
+    border-style:solid;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+}

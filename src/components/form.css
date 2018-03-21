@@ -1,0 +1,24 @@
+.formWrapper{
+    width: 30%;
+    height: 200px;
+    background-color:orange;
+    margin: 2rem;
+    
+}
+
+.selectStyle{
+    margin: 20px;
+    height:50px;
+}
+
+.selectradioWrap{
+    display: flex;
+    justify-content:space-around;
+}
+
+.radioWrapper{
+    margin-top:10px;
+    display: flex;
+    flex-direction:column;
+    
+}
